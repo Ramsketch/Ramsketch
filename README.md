@@ -1,16 +1,67 @@
-## Hi there 👋
+# Hi, I'm Ram Kumar 👋
 
-<!--
-**Ramsketch/Ramsketch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Artificial Intelligence and Machine Learning Student
 
-Here are some ideas to get you started:
+💻 Aspiring Full Stack Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Currently learning Full Stack Development and Python
+
+📸 Interested in Photography, UI/UX and Creative Design
+
+---
+
+## About Me
+
+I'm an undergraduate student interested in software development,
+web technologies and building practical projects.
+
+I enjoy learning new technologies, developing projects and
+improving my programming and problem-solving skills.
+
+My goal is to become a skilled Full Stack Developer.
+
+---
+
+## Skills
+
+### Programming
+- Python
+- HTML
+- CSS
+
+### Tools
+- Git
+- GitHub
+- VS Code
+
+### Currently Learning
+- JavaScript
+- SQL
+- Full Stack Development
+- Django
+
+---
+
+## Projects
+
+Currently working on..
+
+
+## Goals
+
+- Improve programming and problem-solving skills
+- Build real-world projects
+- Learn Full Stack Development
+- Contribute to open-source projects
+- Prepare for software developer placements
+
+---
+
+## Connect With Me
+
+- LinkedIn: [My LinkedIn](https://www.linkedin.com/in/ram-kumar-s-27978637a?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+- GitHub: [Ramsketch](https://github.com/Ramsketch)
+
+---
+
+⭐ Thanks for visiting my profile!
